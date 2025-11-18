@@ -14,3 +14,4 @@ Notes and usage details for go-anthropic.
 - clarify the setup steps
 - link the usage section
 - clarify the setup steps
+- link the usage section
